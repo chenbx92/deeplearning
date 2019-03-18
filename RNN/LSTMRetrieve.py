@@ -1,3 +1,5 @@
+#also can be used to predict after finishing train
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 
